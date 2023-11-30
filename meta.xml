@@ -1,0 +1,7 @@
+<meta>
+    <info name="blinkers" author="thealex-br" type="script" version="1.0.3"/>
+
+    <script src="client.lua" type="client"/>
+    <file src="audio/pisca-agudo.mp3" />
+    <file src="audio/pisca-grave.mp3" />
+</meta>
